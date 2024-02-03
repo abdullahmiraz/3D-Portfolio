@@ -1,0 +1,11 @@
+steps:
+
+** Install Tailwind css
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+
+** Install essential packages for 3D feel
+$ npm install --legacy-peer-deps @react-three/fiber @react-three/drei maath react-tilt react-vertical-timeline-component @e
+mailjs/browser framer-motion react-router-dom
+
+** 
